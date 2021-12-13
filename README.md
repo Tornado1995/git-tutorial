@@ -6,8 +6,8 @@ git es un software de control de versiones
 
 ## ¿Qué es github?
 es una plataforma donde se suben cosas
-## git 
-
+## git init
+Es el comando que se da para que git empiece a gaurdar los cambios
 ## git clone
 toma el archivo subido en git hub y lo sube a la nuve
 
@@ -18,6 +18,7 @@ me devuelve en que estado esta el archivo
 agrega los cambios que hicimos en nuestro archivo. posteriormente hay que commitear
 
 ## git commit
+
 
 ### good commits messages
 

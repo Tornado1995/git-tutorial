@@ -14,10 +14,9 @@ clona un repositorio remoto (que vive por ej github) de manera local
 me devuelve en que estado esta el archivo
 
 ## git add
-agrega los cambios que hicimos en nuestro archivo. posteriormente hay que commitear
-
+agrega los cambios realizados 
 ## git commit
-
+  Marca un punto de control en mi linea de evolucion de mi programa
 
 ### good commits messages
 

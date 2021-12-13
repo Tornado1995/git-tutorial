@@ -27,7 +27,7 @@ agrega los cambios realizados
 ## git push
 
 ## git pull
-
+trae el archivo con los cambios 
 ## git merge
 
 ## .gitignore

@@ -15,6 +15,7 @@ toma el archivo subido en git hub y lo sube a la nuve
 me devuelve en que estado esta el archivo
 
 ## git add
+agrega los cambios que hicimos en nuestro archivo. posteriormente hay que commitear
 
 ## git commit
 

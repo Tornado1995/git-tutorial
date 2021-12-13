@@ -9,8 +9,10 @@ es una plataforma donde se suben cosas
 ## git 
 
 ## git clone
+toma el archivo subido en git hub y lo sube a la nuve
 
 ## git status
+me devuelve en que estado esta el archivo
 
 ## git add
 

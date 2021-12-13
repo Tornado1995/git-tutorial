@@ -9,8 +9,7 @@ es una plataforma donde se suben cosas
 ## git init
 Es el comando que se da para que git empiece a gaurdar los cambios
 ## git clone
-toma el archivo subido en git hub y lo sube a la nuve
-
+clona un repositorio remoto (que vive por ej github) de manera local
 ## git status
 me devuelve en que estado esta el archivo
 

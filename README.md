@@ -2,9 +2,11 @@
 
 ## ¿Qué es git?
 
-## ¿Qué es github?
+git es un software de control de versiones
 
-## git init
+## ¿Qué es github?
+es una plataforma donde se suben cosas
+## git 
 
 ## git clone
 
